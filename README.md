@@ -22,4 +22,4 @@ $ catkin_make
 https://youtu.be/jxKyGvWS4fg
 
 ## LICENSE  
-This repository is licensed under the GPLv3 license, see LICENSE.
+This repository is licensed under the BSD-3-Clause license, see LICENSE.
