@@ -15,9 +15,9 @@ $ catkin_make
 端末１  
 `$ roscore`  
 端末２  
-`$ rosrun robosys pub_pond.py`  
+`$ rosrun robosyskadai2 pub_pond.py`  
 端末３  
-`$ rosrun My_ROS sub_pond.py`
+`$ rosrun robosyskadai2 sub_pond.py`
 ## YouTube
 https://youtu.be/jxKyGvWS4fg
 
