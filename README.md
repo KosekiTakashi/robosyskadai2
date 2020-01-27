@@ -23,9 +23,9 @@ $ catkin_make
 https://youtu.be/jxKyGvWS4fg
 
 ## 一緒にやった人
-木村　慧士　https://github.com/kimurasatoshi
-小島　健　　https://github.com/Takeshi-Kojima
-吉村　一希　https://github.com/kazuki0702
+* 木村　慧士　https://github.com/kimurasatoshi  
+* 小島　健　　https://github.com/Takeshi-Kojima  
+* 吉村　一希　https://github.com/kazuki0702  
 
 ## LICENSE  
 This repository is licensed under the BSD-3-Clause license, see LICENSE.
