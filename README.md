@@ -20,7 +20,7 @@ $ catkin_make
 `$ rosrun robosyskadai2 sub_num.py`
 
 ## YouTube
-https://youtu.be/jxKyGvWS4fg
+https://youtu.be/ndrFRGmkErU
 
 ## 一緒にやった人
 * 木村　慧士　https://github.com/kimurasatoshi  
